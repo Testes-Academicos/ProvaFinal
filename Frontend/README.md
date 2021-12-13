@@ -1,5 +1,5 @@
 
-<p  align="center"><img src="https://user-images.githubusercontent.com/50602159/86661476-209de200-bfc2-11ea-9947-0738caef6de9.png"/></p>
+<p  align="center"><img src="https://www.clickfozdoiguacu.com.br/wp-content/uploads/2020/03/uniamerica.jpeg"/></p>
 
 ## :blue_book: Sobre o projeto
 sistema de gestaõ de estoque que permite fazer o controle de todos os momvimentos de entradas e saída de uma empresa visando na optima administração , o sitema foi desenvolvido pelo estudante de engenharia de software Ducílio referente a prova da uniamerica
